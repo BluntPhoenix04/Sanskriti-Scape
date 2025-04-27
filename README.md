@@ -71,3 +71,14 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Notes 🗒️
+
+Before looking at the initial project, please note that the project hasn't been hosted on any particular platform since there's exists a server side hosting error. Please navigate after downloading the file like the following pattern::
+
+```text
+
+├── app                     # Main page container
+    ├── page.tsx            # Main page for the project
+
+```
